@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrokBoard.AppHost", "FrokBoard.AppHost\FrokBoard.AppHost.csproj", "{C1575FD1-29F2-4075-BD60-764FF9E9F314}"
 EndProject
@@ -19,6 +19,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotArticle", "HotArticle\HotArticle.csproj", "{D67A5422-8A86-454A-A9B8-24E4097D08E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleRead", "ArticleRead\ArticleRead.csproj", "{CDE63339-C11E-4981-8E19-817C850B5BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTest", "CommonTest\CommonTest.csproj", "{69E6B41D-5DA8-40C2-8358-6AC7B92995BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +64,10 @@ Global
 		{CDE63339-C11E-4981-8E19-817C850B5BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDE63339-C11E-4981-8E19-817C850B5BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDE63339-C11E-4981-8E19-817C850B5BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E6B41D-5DA8-40C2-8358-6AC7B92995BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E6B41D-5DA8-40C2-8358-6AC7B92995BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E6B41D-5DA8-40C2-8358-6AC7B92995BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E6B41D-5DA8-40C2-8358-6AC7B92995BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
